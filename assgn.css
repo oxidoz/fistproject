@@ -61,13 +61,18 @@ body {
 }
 .row2 div{
   width: 33.33333%;
+  height: 200px;
   float: left;
 }
 .row3 div{
   width: 50%;
   float: left;
 }
+.row4 div{
+  height: 200px;
+}
 .row5 div{
   width: 16.66667%;
+  height: 400px;
   float: left;
 }

@@ -1,0 +1,73 @@
+body {
+  width: 60%;
+  margin: 40px auto 0 auto;
+}
+.box{
+  height: 100px;
+}
+.red{
+  background: red;
+  width: 100%;
+}
+.blue{
+  background: blue;
+}
+.yellow{
+  background: yellow;
+}
+.black{
+  background: black;
+}
+.white{
+  background: white;
+}
+.orange{
+  background: orange;
+  width: 20%;
+  float: left;
+}
+.purple{
+  background: purple;
+  width: 60%;
+  float: left;
+}
+.teal{
+  background: teal;
+  width: 20%;
+  float: left;
+}
+.indigo{
+  background: indigo;
+}
+.pink{
+  background: pink;
+}
+.grey{
+  background: grey;
+}
+.green{
+  background: green;
+}
+.gold{
+  background: gold;
+}
+.magenta{
+  background: magenta;
+}
+.burgundy{
+  background: #800020;
+  float: left;
+  width: 100%;
+}
+.row2 div{
+  width: 33.33333%;
+  float: left;
+}
+.row3 div{
+  width: 50%;
+  float: left;
+}
+.row5 div{
+  width: 16.66667%;
+  float: left;
+}
